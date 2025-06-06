@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/claudiogobber-art/static/css/main.09195643.css",
-    "main.js": "/claudiogobber-art/static/js/main.fa5323bd.js",
+    "main.css": "/claudiogobber-art/static/css/main.0fa29ad0.css",
+    "main.js": "/claudiogobber-art/static/js/main.4f759605.js",
     "static/js/584.cf981e52.chunk.js": "/claudiogobber-art/static/js/584.cf981e52.chunk.js",
     "index.html": "/claudiogobber-art/index.html",
-    "main.09195643.css.map": "/claudiogobber-art/static/css/main.09195643.css.map",
-    "main.fa5323bd.js.map": "/claudiogobber-art/static/js/main.fa5323bd.js.map",
+    "main.0fa29ad0.css.map": "/claudiogobber-art/static/css/main.0fa29ad0.css.map",
+    "main.4f759605.js.map": "/claudiogobber-art/static/js/main.4f759605.js.map",
     "584.cf981e52.chunk.js.map": "/claudiogobber-art/static/js/584.cf981e52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09195643.css",
-    "static/js/main.fa5323bd.js"
+    "static/css/main.0fa29ad0.css",
+    "static/js/main.4f759605.js"
   ]
 }
